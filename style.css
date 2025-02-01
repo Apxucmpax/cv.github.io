@@ -1,5 +1,5 @@
 :root {
-    --color-background: #4169E1;
+    --color-background: #A9A9A9;
     --color-text: #383850;
 }
 body {
@@ -63,7 +63,7 @@ header .background {
     height: 300px;
     transform: rotate(-5deg);
     position: absolute;
-    top: -85px;
+    top: -65px;
 }
 header .title {
     position: absolute;
@@ -158,6 +158,9 @@ main {
 }
 .w20 {
     width: 20px;
+}
+.w580 {
+    width: 580px;
 }
 .horizontal-line {
     width: 100%;
