@@ -124,12 +124,12 @@ main {
   display: flex;
 }
 .column1 {
-  width: 65%;
+  width: 61%;
   border-right: 1px solid var(--color-text);
   padding-right: 10px;
 }
 .column {
-  width: 35%;
+  width: 39%;
   padding-left: 10px;
 }
 .icon-group {
